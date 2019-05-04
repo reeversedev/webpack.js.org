@@ -45,7 +45,7 @@
     display: block;
 
     @include break {
-      margin: 0 -30px;
+      margin: 0 0px;
     }
 
     &:before,
